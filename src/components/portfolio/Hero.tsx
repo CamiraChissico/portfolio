@@ -184,10 +184,10 @@ export function Hero() {
               <div className="h-1.5 w-1.5 rounded-full bg-green-500 animate-pulse" />
               ready to code
             </span>
+            <span></span>
+            <span></span>
             <span>•</span>
-            <span>v2.0.26</span>
-            <span>•</span>
-            <span>✨ 99% lighthouse</span>
+            <span>✨</span>
           </motion.div>
         </motion.div>
       </div>
